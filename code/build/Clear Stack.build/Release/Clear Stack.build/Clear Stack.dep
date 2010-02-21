@@ -1,0 +1,12 @@
+7d1ca30d48a4c226c5901b5763d2dc7d 4cc2654086259b3657dc646a1a574b90 ffffffffffffffffffffffffffffffff 102 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app
+7c64cecc886745431a3f0b3b26f17b12 0416072850b6069103b05c65d3e0345e ffffffffffffffffffffffffffffffff 29736 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app/Contents/MacOS/Clear Stack
+00000000000000000000000000000000 6c57be22a8f51dce2271b0a45507677c ffffffffffffffffffffffffffffffff 30546 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app/Contents/Resources/Clear Stack.icns
+00000000000000000000000000000000 54f0883fbeba1c18bca47a7cb57f8b80 ffffffffffffffffffffffffffffffff 218 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 a903ebf9890e7010882e3d284e263e99 ffffffffffffffffffffffffffffffff 204 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app/Contents/Resources/English.lproj/MainMenu.nib
+00000000473fc233000000000000069f 94cab70d480b3201cae4bbf9389d47cb ffffffffffffffffffffffffffffffff 1498 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app/Contents/Resources/Scripts/Clear Stack.scpt
+00000000473fbf6c000000000000042d 2ff3e6d69fcb62602325485f84d6c102 ffffffffffffffffffffffffffffffff 8 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app/Contents/PkgInfo
+00000000473fbf6c000000000000042d 2ff3e6d69fcb62602325485f84d6c102 ffffffffffffffffffffffffffffffff 1065 /Users/ethan/Documents/Clear Stack/build/Release/Clear Stack.app/Contents/Info.plist
+00000000473f9f3900000000000000c5 4a3bf510b58ac8a132de24948337a764 ffffffffffffffffffffffffffffffff 468 /Users/ethan/Documents/Clear Stack/build/Clear Stack.build/Release/Clear Stack.build/Objects-normal/i386/main.o
+00000000473f9f3900000000000000c5 18b80deaf534c3dde73ff0a4e2a0c1ab ffffffffffffffffffffffffffffffff 724 /Users/ethan/Documents/Clear Stack/build/Clear Stack.build/Release/Clear Stack.build/Objects-normal/ppc/main.o
+4a3bf510b58ae4d332de249483380829 5e2637b3174422a01f5bb10cb8e6a8bb ffffffffffffffffffffffffffffffff 13352 /Users/ethan/Documents/Clear Stack/build/Clear Stack.build/Release/Clear Stack.build/Objects-normal/i386/Clear Stack
+18b80deaf534efafe73ff0a4e2af6ef9 70c10185df9d6c9fd0856e07ff80b579 ffffffffffffffffffffffffffffffff 9388 /Users/ethan/Documents/Clear Stack/build/Clear Stack.build/Release/Clear Stack.build/Objects-normal/ppc/Clear Stack
